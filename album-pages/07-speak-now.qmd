@@ -1,0 +1,20 @@
+---
+title: "Speak Now"
+date: "2010-10-25"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/23/57/d423579f-24f7-5c82-ed10-fbfd21ceef25/10UMDIM00487.rgb.jpg/100x100bb.jpg"
+---
+
+![Speak Now](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/23/57/d423579f-24f7-5c82-ed10-fbfd21ceef25/10UMDIM00487.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2010-10-25
+- Genre: Country
+- Tracks: 15
+- Country: USA
+- Price: $10.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/speak-now/1440920310?uo=4)
+
+[Back to all albums](../index.qmd)

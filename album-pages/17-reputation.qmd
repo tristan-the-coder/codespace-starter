@@ -1,0 +1,20 @@
+---
+title: "reputation"
+date: "2017-11-10"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/e6/06/ebe606da-e00f-82d3-47f3-b79904eed541/17UM1IM24651.rgb.jpg/100x100bb.jpg"
+---
+
+![reputation](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/e6/06/ebe606da-e00f-82d3-47f3-b79904eed541/17UM1IM24651.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2017-11-10
+- Genre: Pop
+- Tracks: 15
+- Country: USA
+- Price: $9.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/reputation/1440933849?uo=4)
+
+[Back to all albums](../index.qmd)

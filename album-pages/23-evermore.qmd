@@ -1,0 +1,20 @@
+---
+title: "evermore"
+date: "2020-12-11"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/33/6e/82336ed3-3d1b-e920-b0a7-61775acd0f33/20UM1IM14847.rgb.jpg/100x100bb.jpg"
+---
+
+![evermore](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/33/6e/82336ed3-3d1b-e920-b0a7-61775acd0f33/20UM1IM14847.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2020-12-11
+- Genre: Alternative
+- Tracks: 16
+- Country: USA
+- Price: $12.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/evermore/1544275966?uo=4)
+
+[Back to all albums](../index.qmd)

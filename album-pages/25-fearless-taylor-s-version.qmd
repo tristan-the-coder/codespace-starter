@@ -1,0 +1,20 @@
+---
+title: "Fearless (Taylor's Version)"
+date: "2021-04-09"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d0/1c/c3d01c88-73e7-187e-fd62-e1744de979a6/21UMGIM09915.rgb.jpg/100x100bb.jpg"
+---
+
+![Fearless (Taylor's Version)](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d0/1c/c3d01c88-73e7-187e-fd62-e1744de979a6/21UMGIM09915.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2021-04-09
+- Genre: Country
+- Tracks: 26
+- Country: USA
+- Price: $13.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/fearless-taylors-version/1552791073?uo=4)
+
+[Back to all albums](../index.qmd)

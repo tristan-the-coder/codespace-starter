@@ -1,0 +1,20 @@
+---
+title: "Fearless (Platinum Edition)"
+date: "2008-11-11"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/dc/cb/59dccbb0-73f9-701e-7b5b-58c902ddfe68/09UMDIM00338.rgb.jpg/100x100bb.jpg"
+---
+
+![Fearless (Platinum Edition)](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/dc/cb/59dccbb0-73f9-701e-7b5b-58c902ddfe68/09UMDIM00338.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2008-11-11
+- Genre: Country
+- Tracks: 29
+- Country: USA
+- Price: $-1.0 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/fearless-platinum-edition/1452859090?uo=4)
+
+[Back to all albums](../index.qmd)

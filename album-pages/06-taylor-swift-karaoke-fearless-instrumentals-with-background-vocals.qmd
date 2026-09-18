@@ -1,0 +1,20 @@
+---
+title: "Taylor Swift Karaoke: Fearless (Instrumentals with Background Vocals)"
+date: "2009-01-01"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/e3/21/3de321e4-61f5-ebec-91c1-0478755b3c28/00843930002221.rgb.jpg/100x100bb.jpg"
+---
+
+![Taylor Swift Karaoke: Fearless (Instrumentals with Background Vocals)](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/e3/21/3de321e4-61f5-ebec-91c1-0478755b3c28/00843930002221.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2009-01-01
+- Genre: Country
+- Tracks: 14
+- Country: USA
+- Price: $8.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/taylor-swift-karaoke-fearless-instrumentals-with/1443149328?uo=4)
+
+[Back to all albums](../index.qmd)

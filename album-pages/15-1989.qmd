@@ -1,0 +1,20 @@
+---
+title: "1989"
+date: "2014-10-27"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/100x100bb.jpg"
+---
+
+![1989](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2014-10-27
+- Genre: Pop
+- Tracks: 14
+- Country: USA
+- Price: $10.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/1989/1440935467?uo=4)
+
+[Back to all albums](../index.qmd)

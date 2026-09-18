@@ -1,0 +1,20 @@
+---
+title: "Fearless"
+date: "2008-11-11"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/6e/a7/cb6ea70a-6cb8-89a0-4da7-91e2d04a7bba/08PNDIM05386.rgb.jpg/100x100bb.jpg"
+---
+
+![Fearless](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/6e/a7/cb6ea70a-6cb8-89a0-4da7-91e2d04a7bba/08PNDIM05386.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2008-11-11
+- Genre: Country
+- Tracks: 14
+- Country: USA
+- Price: $9.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/fearless/1440924803?uo=4)
+
+[Back to all albums](../index.qmd)

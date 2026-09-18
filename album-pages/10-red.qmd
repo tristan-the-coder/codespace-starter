@@ -1,0 +1,20 @@
+---
+title: "Red"
+date: "2012-01-01"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/0d/7e/250d7e42-3a2f-19ac-f865-f1e04a4a1f97/12UMDIM01007.rgb.jpg/100x100bb.jpg"
+---
+
+![Red](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/0d/7e/250d7e42-3a2f-19ac-f865-f1e04a4a1f97/12UMDIM01007.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2012-01-01
+- Genre: Country
+- Tracks: 17
+- Country: USA
+- Price: $11.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/red/1440935340?uo=4)
+
+[Back to all albums](../index.qmd)

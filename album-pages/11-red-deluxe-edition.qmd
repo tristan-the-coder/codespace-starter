@@ -1,0 +1,20 @@
+---
+title: "Red (Deluxe Edition)"
+date: "2012-10-22"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/e4/31/38e431ce-dde5-53bd-4c61-adb98816a838/12UMDIM01012.rgb.jpg/100x100bb.jpg"
+---
+
+![Red (Deluxe Edition)](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/e4/31/38e431ce-dde5-53bd-4c61-adb98816a838/12UMDIM01012.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2012-10-22
+- Genre: Country
+- Tracks: 22
+- Country: USA
+- Price: $14.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/red-deluxe-edition/1440934573?uo=4)
+
+[Back to all albums](../index.qmd)

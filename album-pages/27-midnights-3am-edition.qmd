@@ -1,0 +1,20 @@
+---
+title: "Midnights (3am Edition)"
+date: "2022-10-21"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ff/e8/8a/ffe88ac5-9468-0671-9968-3438faad2cc1/22UM1IM22512.rgb.jpg/100x100bb.jpg"
+---
+
+![Midnights (3am Edition)](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ff/e8/8a/ffe88ac5-9468-0671-9968-3438faad2cc1/22UM1IM22512.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2022-10-21
+- Genre: Pop
+- Tracks: 21
+- Country: USA
+- Price: $13.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/midnights-3am-edition/1650859878?uo=4)
+
+[Back to all albums](../index.qmd)

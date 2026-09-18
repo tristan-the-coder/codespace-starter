@@ -1,0 +1,20 @@
+---
+title: "Speak Now (Taylor's Version)"
+date: "2023-07-07"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/3c/0a/9f3c0a60-f9e0-a34e-60e5-0be1f182896b/23UMGIM63932.rgb.jpg/100x100bb.jpg"
+---
+
+![Speak Now (Taylor's Version)](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/3c/0a/9f3c0a60-f9e0-a34e-60e5-0be1f182896b/23UMGIM63932.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2023-07-07
+- Genre: Country
+- Tracks: 23
+- Country: USA
+- Price: $13.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/speak-now-taylors-version/1690839749?uo=4)
+
+[Back to all albums](../index.qmd)

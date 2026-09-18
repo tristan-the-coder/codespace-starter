@@ -1,0 +1,20 @@
+---
+title: "Speak Now (Deluxe Edition)"
+date: "2010-10-25"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/4c/9b/cc4c9b86-1ff8-09bb-4d1f-1069cbacbc87/17UM1IM06953.rgb.jpg/100x100bb.jpg"
+---
+
+![Speak Now (Deluxe Edition)](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/4c/9b/cc4c9b86-1ff8-09bb-4d1f-1069cbacbc87/17UM1IM06953.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2010-10-25
+- Genre: Country
+- Tracks: 20
+- Country: USA
+- Price: $14.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/speak-now-deluxe-edition/1440935756?uo=4)
+
+[Back to all albums](../index.qmd)

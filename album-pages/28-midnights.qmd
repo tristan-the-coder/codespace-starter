@@ -1,0 +1,20 @@
+---
+title: "Midnights"
+date: "2022-10-21"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/11/33/de/1133deee-070e-98d3-950a-2269807b074e/22UM1IM24801.rgb.jpg/100x100bb.jpg"
+---
+
+![Midnights](https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/11/33/de/1133deee-070e-98d3-950a-2269807b074e/22UM1IM24801.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2022-10-21
+- Genre: Pop
+- Tracks: 13
+- Country: USA
+- Price: $11.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/midnights/1645937249?uo=4)
+
+[Back to all albums](../index.qmd)

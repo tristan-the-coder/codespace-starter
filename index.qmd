@@ -1,0 +1,22 @@
+---
+title: "Taylor Swift Albums"
+listing:
+  - id: album-gallery
+    contents: album-pages
+    type: grid
+    sort: "date desc"
+    fields: [image, title, date]
+    image-height: 220px
+    page-size: 24
+    filter-ui: false
+    sort-ui: false
+format:
+  html:
+    theme: cosmo
+    toc: true
+---
+
+# Taylor Swift album collection
+
+This site organizes Taylor Swift’s released albums into separate Quarto pages.
+

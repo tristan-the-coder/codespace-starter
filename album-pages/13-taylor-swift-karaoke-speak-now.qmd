@@ -1,0 +1,20 @@
+---
+title: "Taylor Swift Karaoke: Speak Now"
+date: "2013-01-01"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/45/6c/ff/456cff48-546c-2be2-3e39-1f0d233f3f61/00843930008964.rgb.jpg/100x100bb.jpg"
+---
+
+![Taylor Swift Karaoke: Speak Now](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/45/6c/ff/456cff48-546c-2be2-3e39-1f0d233f3f61/00843930008964.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2013-01-01
+- Genre: Country
+- Tracks: 15
+- Country: USA
+- Price: $8.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/taylor-swift-karaoke-speak-now/1443174899?uo=4)
+
+[Back to all albums](../index.qmd)

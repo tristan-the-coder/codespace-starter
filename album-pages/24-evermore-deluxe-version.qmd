@@ -1,0 +1,20 @@
+---
+title: "evermore (deluxe version)"
+date: "2021-01-07"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/18/93/99/189399a7-95e1-324b-e40a-bd9e3ea22a95/20UM1IM14847.rgb.jpg/100x100bb.jpg"
+---
+
+![evermore (deluxe version)](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/18/93/99/189399a7-95e1-324b-e40a-bd9e3ea22a95/20UM1IM14847.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2021-01-07
+- Genre: Alternative
+- Tracks: 18
+- Country: USA
+- Price: $13.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/evermore-deluxe-version/1547316125?uo=4)
+
+[Back to all albums](../index.qmd)

@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Taylor Swift Albums"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: false

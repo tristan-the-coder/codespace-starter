@@ -1,0 +1,20 @@
+---
+title: "1989 (Taylor's Version)"
+date: "2023-10-27"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/100x100bb.jpg"
+---
+
+![1989 (Taylor's Version)](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2023-10-27
+- Genre: Pop
+- Tracks: 21
+- Country: USA
+- Price: $13.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/1989-taylors-version/1708308989?uo=4)
+
+[Back to all albums](../index.qmd)

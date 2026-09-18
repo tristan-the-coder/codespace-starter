@@ -1,0 +1,20 @@
+---
+title: "1989 (Deluxe Edition)"
+date: "2014-10-27"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/98/d8/a798d867-344d-2bf2-fbfe-d2d1412dcef8/14UMDIM03793.rgb.jpg/100x100bb.jpg"
+---
+
+![1989 (Deluxe Edition)](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/98/d8/a798d867-344d-2bf2-fbfe-d2d1412dcef8/14UMDIM03793.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2014-10-27
+- Genre: Pop
+- Tracks: 19
+- Country: USA
+- Price: $11.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/1989-deluxe-edition/1440933512?uo=4)
+
+[Back to all albums](../index.qmd)

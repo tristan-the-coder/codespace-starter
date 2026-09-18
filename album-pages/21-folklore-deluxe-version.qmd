@@ -1,0 +1,20 @@
+---
+title: "folklore (deluxe version)"
+date: "2020-08-18"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/ef/c2/8cefc23a-61b7-05ff-b52a-bb1e4922087c/20UMGIM64216.rgb.jpg/100x100bb.jpg"
+---
+
+![folklore (deluxe version)](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/ef/c2/8cefc23a-61b7-05ff-b52a-bb1e4922087c/20UMGIM64216.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2020-08-18
+- Genre: Alternative
+- Tracks: 17
+- Country: USA
+- Price: $13.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/folklore-deluxe-version/1528111535?uo=4)
+
+[Back to all albums](../index.qmd)

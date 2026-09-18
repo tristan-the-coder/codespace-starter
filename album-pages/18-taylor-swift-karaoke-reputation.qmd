@@ -1,0 +1,20 @@
+---
+title: "Taylor Swift Karaoke: reputation"
+date: "2018-03-09"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/77/64/85/77648585-afe7-7036-c506-88dcd8f344b8/00843930034963.rgb.jpg/100x100bb.jpg"
+---
+
+![Taylor Swift Karaoke: reputation](https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/77/64/85/77648585-afe7-7036-c506-88dcd8f344b8/00843930034963.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2018-03-09
+- Genre: Pop
+- Tracks: 15
+- Country: USA
+- Price: $9.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/taylor-swift-karaoke-reputation/1440935632?uo=4)
+
+[Back to all albums](../index.qmd)

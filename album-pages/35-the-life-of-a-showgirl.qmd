@@ -1,0 +1,20 @@
+---
+title: "The Life of a Showgirl"
+date: "2025-10-03"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0c/5a/300c5a57-d3be-a170-f880-f63380ca6312/25UM1IM19577.rgb.jpg/100x100bb.jpg"
+---
+
+![The Life of a Showgirl](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0c/5a/300c5a57-d3be-a170-f880-f63380ca6312/25UM1IM19577.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2025-10-03
+- Genre: Pop
+- Tracks: 12
+- Country: USA
+- Price: $11.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/the-life-of-a-showgirl/1842897453?uo=4)
+
+[Back to all albums](../index.qmd)

@@ -1,0 +1,20 @@
+---
+title: "Red (Taylor\u2019s Version) (+ A Message from Taylor)"
+date: "2021-11-12"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c6/27/9c/c6279c07-9329-827d-31c4-f5d4c7d99ff4/21UM1IM25046.rgb.jpg/100x100bb.jpg"
+---
+
+![Red (Taylor’s Version) (+ A Message from Taylor)](https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c6/27/9c/c6279c07-9329-827d-31c4-f5d4c7d99ff4/21UM1IM25046.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2021-11-12
+- Genre: Pop
+- Tracks: 31
+- Country: USA
+- Price: $14.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/red-taylors-version-a-message-from-taylor/1590368275?uo=4)
+
+[Back to all albums](../index.qmd)

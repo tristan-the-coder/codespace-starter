@@ -1,0 +1,20 @@
+---
+title: "Lover"
+date: "2019-08-23"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/100x100bb.jpg"
+---
+
+![Lover](https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2019-08-23
+- Genre: Pop
+- Tracks: 18
+- Country: USA
+- Price: $11.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/lover/1468058165?uo=4)
+
+[Back to all albums](../index.qmd)

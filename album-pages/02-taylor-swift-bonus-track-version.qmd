@@ -1,0 +1,20 @@
+---
+title: "Taylor Swift (Bonus Track Version)"
+date: "2006-10-24"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/e1/48/bee148d6-d16c-d8f7-0173-d6cf6d684aa1/08PNDIM00678.rgb.jpg/100x100bb.jpg"
+---
+
+![Taylor Swift (Bonus Track Version)](https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/e1/48/bee148d6-d16c-d8f7-0173-d6cf6d684aa1/08PNDIM00678.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2006-10-24
+- Genre: Country
+- Tracks: 15
+- Country: USA
+- Price: $9.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/taylor-swift-bonus-track-version/1440913923?uo=4)
+
+[Back to all albums](../index.qmd)

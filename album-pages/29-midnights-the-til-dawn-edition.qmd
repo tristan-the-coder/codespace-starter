@@ -1,0 +1,20 @@
+---
+title: "Midnights (The Til Dawn Edition)"
+date: "2022-10-21"
+image: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/b7/5d/fbb75d98-3b52-2fa5-ca82-658194f3c498/23UMGIM58157.rgb.jpg/100x100bb.jpg"
+---
+
+![Midnights (The Til Dawn Edition)](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/b7/5d/fbb75d98-3b52-2fa5-ca82-658194f3c498/23UMGIM58157.rgb.jpg/100x100bb.jpg)
+
+## Album details
+
+- Artist: Taylor Swift
+- Release date: 2022-10-21
+- Genre: Pop
+- Tracks: 23
+- Country: USA
+- Price: $14.99 USD
+
+[Open on Apple Music](https://music.apple.com/us/album/midnights-the-til-dawn-edition/1689089710?uo=4)
+
+[Back to all albums](../index.qmd)
