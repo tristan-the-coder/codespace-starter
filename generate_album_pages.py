@@ -27,10 +27,11 @@ for item in payload.get('results', []):
         continue
     lower_name = name.lower()
     skip_tokens = (
-        'single', 'remix', 'live from', 'live ',
-        'piano covers', 'cover', 'toy story',
-        'soundtrack', 'from the motion picture',
-        'featured in', 'performance', 'cma awards'
+        'single', 'remix', 'karaoke', 'instrumentals',
+        'live from', 'live ', 'world tour', 'piano covers',
+        'cover', 'toy story', 'soundtrack', 'from the motion picture',
+        'featured in', 'performance', 'cma awards', 'studio sessions',
+        'from the disney+ special', 'from "'
     )
     if any(token in lower_name for token in skip_tokens):
         continue
